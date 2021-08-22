@@ -1,9 +1,6 @@
 //
 //  AppDelegate.swift
 //  ButonSwitcher
-//
-//  Created by Michel Bouchet on 21/08/2021.
-//
 
 import UIKit
 
